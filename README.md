@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anu-Jaiswal
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning java language.
+- 🌱 I’m currently learning java language and MERN stack development.
 - 💞️ I’m looking to collaborate on learning and working on codes.
 
 <!---
