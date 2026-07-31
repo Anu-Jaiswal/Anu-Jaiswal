@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Anu-Jaiswal
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning java language and MERN stack development.
-- 💞️ I’m looking to collaborate on learning and working on codes.
+# Hi 👋, I'm Anu Jaiswal
 
-<!---
-Anu-Jaiswal/Anu-Jaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Aspiring Full-Stack Web Developer
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Web+Developer;Building+projects+and+learning+every+day;Currently+learning+React%2C+Docker+and+CI%2FCD"
+    alt="Typing SVG"
+  />
+</p>
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering student
+- 💻 Interested in Full-Stack Web Development
+- 🌱 Currently learning React
+- 🧠 Practicing Data Structures and Algorithms
+- 🚀 Building projects and improving every day
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode" />
+</p>
