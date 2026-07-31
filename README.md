@@ -34,6 +34,15 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anu%20Jai
     height="170"
   />
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Anu-Jaiswal/Anu-Jaiswal/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
+
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Anu-Jaiswal&hide_border=true"
     height="170"
