@@ -1,7 +1,22 @@
 <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=180&section=header&text=Anu%20Jaiswal&fontSize=45&fontAlignY=35&animation=fadeIn"
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anu%20Jaiswal&fontSize=52&fontAlignY=35&desc=Aspiring%20Full-Stack%20Web%20Developer%20%7C%20Building%20and%20Learning&descAlignY=55&animation=fadeIn&fontColor=FFFFFF&color=gradient"
 />
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Turning+ideas+into+web+experiences+%F0%9F%9A%80;Learning%2C+building%2C+and+growing+every+day+%F0%9F%8C%B1;Future+Full-Stack+Developer+%F0%9F%92%BB"
+    alt="Typing animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Anu-Jaiswal&label=Profile%20Views&style=for-the-badge&color=7F5AF0"
+    alt="Profile views"
+  />
+</p>
+
 
 # Hi 👋, I'm Anu Jaiswal
 
