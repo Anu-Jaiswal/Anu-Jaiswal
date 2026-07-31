@@ -1,3 +1,8 @@
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=180&section=header&text=Anu%20Jaiswal&fontSize=45&fontAlignY=35&animation=fadeIn"
+/>
+
 # Hi 👋, I'm Anu Jaiswal
 
 ### 💻 Aspiring Full-Stack Web Developer
@@ -21,4 +26,18 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Anu-Jaiswal&show_icons=true&hide_border=true"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Anu-Jaiswal&hide_border=true"
+    height="170"
+  />
 </p>
